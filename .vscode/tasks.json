@@ -1,0 +1,8 @@
+{
+   "version": "0.1.0",
+   "command": "google-chrome",
+   "ubuntu": {
+       "command": "/home/jp/.config/browser-launcher2/chrome-52.0.2743.116_c70a06d9"
+   },
+   "args": ["${file}"]
+}

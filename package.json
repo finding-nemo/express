@@ -1,0 +1,23 @@
+{
+  "name": "express_practice",
+  "version": "1.0.0",
+  "description": "working with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finding-nemo/express_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finding-nemo/express_practice/issues"
+  },
+  "homepage": "https://github.com/finding-nemo/express_practice#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
