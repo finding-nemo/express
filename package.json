@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/finding-nemo/express_practice#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.15.2",
+    "handlebars": "^4.0.6"
   }
 }
